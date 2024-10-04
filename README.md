@@ -1,5 +1,8 @@
 # Alex's Add-ons Shack
 
+> [!WARNING]  
+> I stopped using Home Assistant OS and switched to Home Assistant container. Add-ons in this repo are probably outdated.
+
 This repository contains my peronal, but free to use [Home Assistant Add-ons](https://www.home-assistant.io/addons/).
 
 ## Usage
