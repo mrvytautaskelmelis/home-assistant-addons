@@ -1,4 +1,6 @@
 # Changelog
+## 4.2.3
+* 📈 Updated Home-Assistant addon-base image to 17.2.4
 
 ## 4.2.2
 * 🐞 Hotfix for update 4.2.1 (#50)
