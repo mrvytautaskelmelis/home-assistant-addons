@@ -1,5 +1,5 @@
 # Changelog
-## 4.2.4.2
+## 4.2.4.3
 * 📈 Updated Traefik to 2.11.24
 
 ## 4.2.3
