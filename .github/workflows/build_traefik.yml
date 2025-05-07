@@ -1,5 +1,8 @@
 name: 'Build and test Traefik'
 
+permissions:
+  contents: read
+
 env:
   ADD_ON_DIRECTORY: traefik
 
