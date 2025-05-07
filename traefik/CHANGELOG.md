@@ -1,4 +1,7 @@
 # Changelog
+## 4.2.4
+* 📈 Updated Traefik to 2.11.24
+
 ## 4.2.3
 * 📈 Updated Home-Assistant addon-base image to 17.2.4
 
