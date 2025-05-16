@@ -1,4 +1,7 @@
 # Changelog
+## 4.2.16
+* 📈 Updated Nginx Dashboard proxypass
+
 ## 4.2.15
 * 📈 Updated Traefik to 2.11.24
 
