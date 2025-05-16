@@ -1,4 +1,7 @@
 # Changelog
+## 4.2.19
+* 📈 Updated Nginx Dashboard. Forwarded_headers_insecure: true
+  
 ## 4.2.18
 * 📈 Updated Nginx Dashboard. proxy_pass_header Content-Type;
 
