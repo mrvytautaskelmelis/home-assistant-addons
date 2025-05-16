@@ -1,5 +1,8 @@
 # Changelog
-## 4.2.16
+## 4.2.18
+* 📈 Updated Nginx Dashboard. proxy_pass_header Content-Type;
+
+## 4.2.17
 * 📈 Updated Nginx Dashboard. Turned off, api Subfilter off
 
 ## 4.2.16
