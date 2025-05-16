@@ -1,4 +1,7 @@
 # Changelog
+## 4.2.20
+* 📈 Updated Nginx Dashboard. TRAEFIK_VERSION: 2.11.0
+
 ## 4.2.19
 * 📈 Updated Nginx Dashboard. Forwarded_headers_insecure: true
   
