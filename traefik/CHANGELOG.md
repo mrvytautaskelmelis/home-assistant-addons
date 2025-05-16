@@ -1,4 +1,7 @@
 # Changelog
+## 4.2.24
+* 📈 Updated Nginx Dashboard. TRAEFIK_VERSION: 2.11.24
+
 ## 4.2.21
 * 📈 Updated Nginx Dashboard. TRAEFIK_VERSION: 2.11.2
 
