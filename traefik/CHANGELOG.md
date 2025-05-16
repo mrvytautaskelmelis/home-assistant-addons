@@ -1,5 +1,8 @@
 # Changelog
 ## 4.2.16
+* 📈 Updated Nginx Dashboard. Turned off, api Subfilter off
+
+## 4.2.16
 * 📈 Updated Nginx Dashboard proxypass
 
 ## 4.2.15
